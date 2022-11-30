@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClassHacker
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React.js
+- 👀 Interested in web development
+- 🌱 Currently learning React.js
 - 📫 How to reach me? ping @ajay_dayma_1401 on Instagram
 
 <!---
