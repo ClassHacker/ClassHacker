@@ -2,6 +2,7 @@
 - 👀 Interested in web development
 - 🌱 Currently learning React.js
 - 📫 How to reach out to me? ping @ajay_dayma_1401 on Instagram
+- More about me [classhacker.github.io](https://classhacker.github.io/)
 
 <!---
 ClassHacker/ClassHacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
