@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ClassHacker
+- 👋 Hi, I’m ClassHacker
 - 👀 Interested in web development
 - 🌱 Currently learning React.js
 - 📫 How to reach out to me? drop an E-mail to ajaykeer1401@gmail.com
