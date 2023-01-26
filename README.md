@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ClassHacker
-- :eyes: Interested in web development
+- :eyes: Interested in full stack development
 - 📫 How to reach out to me? drop an E-mail to ajaykeer1401@gmail.com
-- :speech_balloon: More about me https://classhacker.github.io/
+- :speech_balloon: Wanna know more about me? https://classhacker.github.io/
 <hr>
 <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=classhacker&theme=dark&hide=contribs,issues&show_icons=true&include_all_commits=true" alt="ClassHacker's GitHub Stats">
 <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=classhacker&theme=dark" alt="ClassHacker's Most Used Languages">
