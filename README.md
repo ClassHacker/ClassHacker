@@ -5,6 +5,9 @@
 <hr>
 <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=classhacker&theme=dark&hide=contribs,issues&show_icons=true&include_all_commits=true" alt="ClassHacker's GitHub Stats">
 <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=classhacker&theme=dark" alt="ClassHacker's Most Used Languages">
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="classhacker" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/classhacker?trk=profile-badge">Ajay Dayma</a></div>
+              
 <!-- 
 Not working as expected
 <picture>
